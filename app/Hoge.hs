@@ -1,5 +1,6 @@
 module Hoge where
 
+import System.Random
 import Lib
 
 hello = "Hello, Haskell"
